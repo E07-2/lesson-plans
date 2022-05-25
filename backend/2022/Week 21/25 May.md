@@ -1,4 +1,5 @@
 # Wednesday 25th May
 
 ## Project / Workshops
-+ Workshop deployment (time to be decided)
++ Workshop deployment 
+  - Live Coding : https://github.com/GillesDCI/live-coding-2504
