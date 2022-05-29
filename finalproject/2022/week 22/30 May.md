@@ -14,5 +14,5 @@
   + Pitch ideas
   + Forming teams
 
-+ Prototyping your idea (use paper)
++ Prototyping your idea 
   + Create feature list
