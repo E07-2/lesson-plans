@@ -7,4 +7,7 @@
 + Introduction to design tools
 + Git workflow 
 
++ Prototyping your idea 
+  + Create a feature list
+
 
