@@ -3,3 +3,5 @@
 ## Final Project  
 + Satisfaction survey.
 
++ Prototyping your idea
+  + Create a feature list
