@@ -1,8 +1,13 @@
-# Wednesday 1st June
+# Wednesday 8th June
 
 ## Final Project  
-+ Satisfaction survey.
++ Phase 2 : Design & planning
 
-+ Prototyping your idea
-  + Create a feature list
-  + Create your first sprint, put items on the backlog
++ Design & planning 
+  + Wireframing
+  + Research technologies
+  + Mockups 
+  + Database architecture
+  + Cool group name
+  + Create Tickets 
+  + First sprint planning
